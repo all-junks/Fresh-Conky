@@ -1,0 +1,51 @@
+Changelog
+--------------------------------------------------------
+Graffias Dark - Conky Theme
+[ Scorpio Themes Pack ] 
+
+by Closebox73
+
+Social
+X			: https://twitter.com/closebox73
+Discord		: https://discord.com/users/1115644269802311750
+Pling		: https://pling.com/u/closebox73x
+Mastodon	: https://mastodon.social/@closebox73
+--------------------------------------------------------
+
+v3.3
+date : 28 Nov 2024
+-	Change font from League Spartan to be BPreplay
+-	Add Donation link
+-	Add Playerctl status icon script
+
+
+v3.0
+date : 23 Dec 2023
+-	New weather.sh
+-	Add line draw_blended in conky config due transparent image issue in Gnome & KDE
+-	Change to playerctl for media player info
+-	Add Fahrenheit version
+-	Change font from League Spartan to be Bebas Neue for Weather description
+-	Some minor change
+
+
+v2.4
+date : 09 Feb 2023
+-	Add License
+-	Add Changelog file
+-	A few changes to the script
+-	A few changes to the theme
+-	Add Light Theme
+
+
+v2.0
+date : 17 Sep 2022
+-	Add script to change accent color
+-	Edit a few lines script
+-	Add override_utf8_locale line
+-	minimize archieve theme size
+
+
+v1.0
+date : 17 Oct 2021
+-	Initial release
