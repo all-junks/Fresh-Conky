@@ -7,7 +7,7 @@ echo ""
 echo -e "${lgreen}Welcome to Fresh-Conky installer!${clear}"
 echo ""
 
-mkdir ~/.config/conky; mkdir ~/.fonts; cp -r ~/Fresh-Conky/fonts/* ~/.fonts/; cp -r ~/Fresh-Conky ~/.config/conky/
+mkdir ~/.config/conky; mkdir ~/.fonts; cp -r Fresh-Conky/fonts/* ~/.fonts/; cp -r Fresh-Conky ~/.config/conky/
 
 PS3="Select your distro to install Conky & Conky-Manager: "
 select dist in deb rhel arch suse
